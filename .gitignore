@@ -1,0 +1,5 @@
+/3rdparty
+
+# Pre-built use case application objects are distributed via release Assets
+how-to/use_case_app/*/exe_v2h/
+how-to/use_case_app/*/exe_v2n/
